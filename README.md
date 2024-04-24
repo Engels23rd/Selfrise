@@ -31,8 +31,7 @@ Luego esta los que es iniciar sesion, de la cual puedes crear una cuenta tu o in
 
 Si decides crear la cuenta manual estan estos pasos.
 
-![qemu-system-x86_64_fJFa3cNFAc](https://github.com/Engels23rd/Selfrise/assets/89677093/3328cd44-e545-4776-a8a5-e691a5e8fbb2)     ![qemu-system-x86_64_OLtIs3I89q](https://github.com/Engels23rd/Selfrise/assets/89677093/606a28aa-01ab-489c-871c-85337425e7d4)    [qemu-system-x86_64_zRYBySAEgM](https://github.com/Engels23rd/Selfrise/assets/89677093/99668a9d-540b-4593-b5c9-5f5acb5a333a)
-
+![qemu-system-x86_64_fJFa3cNFAc](https://github.com/Engels23rd/Selfrise/assets/89677093/3328cd44-e545-4776-a8a5-e691a5e8fbb2)     ![qemu-system-x86_64_OLtIs3I89q](https://github.com/Engels23rd/Selfrise/assets/89677093/606a28aa-01ab-489c-871c-85337425e7d4)    ![qemu-system-x86_64_zRYBySAEgM](https://github.com/Engels23rd/Selfrise/assets/89677093/6a8e5090-8d17-4359-821a-16b3df7b40c7)
 
 
 
