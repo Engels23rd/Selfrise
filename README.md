@@ -1,16 +1,21 @@
-# flutter_proyecto_final
+# Selfrise
 
-A new Flutter project.
+Selfrise es una aplicación diseñada para impulsar el bienestar personal y el desarrollo individual en la era contemporánea. Con un enfoque integral, la plataforma ofrece una variedad de herramientas destinadas a ayudar a los usuarios a alcanzar sus metas, adoptar hábitos saludables y fortalecer su bienestar emocional. Desde establecer objetivos personalizados hasta acceder a recursos para el manejo del estrés, Selfrise brinda un acompañamiento constante para mejorar la calidad de vida de sus usuarios.
 
-## Getting Started
+Una de las características destacadas de Selfrise es su capacidad para adaptarse a las necesidades individuales de cada usuario. A través de un seguimiento personalizado, la aplicación ofrece recomendaciones y sugerencias basadas en el progreso y las preferencias de cada persona. Esto permite una experiencia de usuario altamente personalizada, que se ajusta a la evolución de los objetivos y las circunstancias cambiantes.
+
+Además de su enfoque en el desarrollo personal, Selfrise también se preocupa por la experiencia del usuario. Con una interfaz intuitiva y accesible, la aplicación garantiza una experiencia agradable y satisfactoria para todos los usuarios. Asimismo, la retroalimentación continua de los usuarios alimenta constantemente la mejora y la adaptación de la plataforma, asegurando que siempre esté alineada con las necesidades y expectativas de la comunidad.
+
 ## Collaborators
-Anthony-2003
+Anthony-2003 
+
 Leny00
 
+## Tools
+Flutter
+Dart
+Firebase
+Visual Studio Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Design UI/UX
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
