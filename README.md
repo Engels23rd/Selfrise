@@ -7,11 +7,11 @@ Una de las características destacadas de Selfrise es su capacidad para adaptars
 Además de su enfoque en el desarrollo personal, Selfrise también se preocupa por la experiencia del usuario. Con una interfaz intuitiva y accesible, la aplicación garantiza una experiencia agradable y satisfactoria para todos los usuarios. Asimismo, la retroalimentación continua de los usuarios alimenta constantemente la mejora y la adaptación de la plataforma, asegurando que siempre esté alineada con las necesidades y expectativas de la comunidad.
 
 ## Collaborators
-
-*Anthony-2003* 
-anthony1volquez@gmail.com
-*Leny00* 
-lenyg675@gmail.com
+- **Anthony-2003**
+  - Email: anthony1volquez@gmail.com
+  
+- **Leny00**
+  - Email: lenyg675@gmail.com
 
 ## Tools
 Flutter
