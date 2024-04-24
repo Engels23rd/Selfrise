@@ -62,25 +62,63 @@ Aqui tenemos una pestaña de evaluacion de la cual te hace unas cuantas pregunta
 ![qemu-system-x86_64_fayu6oKYfM](https://github.com/Engels23rd/Selfrise/assets/89677093/b381eec2-e11e-4865-8dd8-083bf2748181)
 
 
+Aqui tenemos el enfoque de la app un creador de habitos de la cual puedes crear categoria y a cada categoria varios habitos, por ejemplo el habito caminar esta dentro de la categoria klk.
+
+
+![qemu-system-x86_64_5OtJiiypfB](https://github.com/Engels23rd/Selfrise/assets/89677093/2e4698c9-92f2-472e-8a77-21907d9c471c)
+
+
+Y cuando completas el habito te aparece check y este mensaje.
+
+
+![qemu-system-x86_64_ifZ6eIVCd1](https://github.com/Engels23rd/Selfrise/assets/89677093/96585753-1a49-4dd8-949a-3be6c71b650f)
+
+
+Luego tenermos una pantalla de perfil sencilla.
+
+
+![qemu-system-x86_64_yWxxblQYMd](https://github.com/Engels23rd/Selfrise/assets/89677093/60b03f28-0ced-404c-87b7-8df2c1168c87)
+
+
+Y entonces ahora entramos en lo que es el menu desplegable.
+
+
+![qemu-system-x86_64_cqWH8L7Sti](https://github.com/Engels23rd/Selfrise/assets/89677093/c610c667-ad46-4248-bb80-8945cf8e5a27)
+
+
+Donde la primera opcion dice Psicologo, donde te mostrara la ubiacion de diferentes Psicologos de Santo Domingo.
+
+
+![qemu-system-x86_64_xL3oPVlC66](https://github.com/Engels23rd/Selfrise/assets/89677093/b6ee6186-8f62-4c9d-9a0a-9c01d8c8e489)
+
+
+La segunda opcion que aparece es la de Libros, de la cual te recomienda libros lo hicimos con una API de libros, puede buscar y agregar a fav, ver una descripcion de ellos.
+
+
+![qemu-system-x86_64_I799zvPwf3](https://github.com/Engels23rd/Selfrise/assets/89677093/5268cf1d-0e2d-4ea9-bdb9-d14759049e75)    ![qemu-system-x86_64_yqnVFXUNfG](https://github.com/Engels23rd/Selfrise/assets/89677093/892ae576-b58b-4e4e-a0d7-55be62a55b36)
+
+
+La tercera opcion es de podcast de la cual esta dividido por varias categorias (Motivacion, Salud Mental, Desarrollo Personal, Bienestar Fisico), de la cual veras el nombre del poscast, autor, y una breve descripcion de que trata y un boton de ver.
+
+
+![qemu-system-x86_64_RzZMSb0AcY](https://github.com/Engels23rd/Selfrise/assets/89677093/07d0e952-2d31-4db0-a979-879d8fcb255b)   ![qemu-system-x86_64_bKuQBw5bTU](https://github.com/Engels23rd/Selfrise/assets/89677093/f67ec881-ccf7-45e2-849e-f2998975bb22)
 
 
 
+En la cuarta opcion esta la pestaña de habitos de la cual veras un historial de todos los habitos y los dias que lo completaste va a aparecer un circulo verde, si estan sin completar estando en el dia amarillo y si pasa el dia y no lo completaste pues en rojo.
 
 
+![qemu-system-x86_64_HNA9PdL78V](https://github.com/Engels23rd/Selfrise/assets/89677093/4454929e-98b3-4e4d-9113-55a6a4bb5a27)     ![qemu-system-x86_64_cntagwTT1K](https://github.com/Engels23rd/Selfrise/assets/89677093/8324750c-7967-4cbc-862a-cf085436c3f9)
 
 
+Si le das a estadisticas puedes ver el progreso de tu habito.
+
+![qemu-system-x86_64_yVn1MiLMiD](https://github.com/Engels23rd/Selfrise/assets/89677093/d49d77fe-52e5-417a-ac65-a3c70d070e94)
 
 
+Y por ultimo esta lo que es la pestaña de ver mas que tiene varia opciones como invitar a tus amigos de la cual en via un mensaje incentivando a que descargue la app, tambien licencias de la app, acerca de nosotros y terminos y condiciones de la app.
 
-
-
-
-
-
-
-
-
-
+![qemu-system-x86_64_4vWCtuqsA7](https://github.com/Engels23rd/Selfrise/assets/89677093/429a8f2e-d316-4e7e-9572-778152d167d9)
 
 
 
