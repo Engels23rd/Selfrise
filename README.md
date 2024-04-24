@@ -1,4 +1,4 @@
-# Selfrise
+ # Selfrise
 
 Selfrise es una aplicación diseñada para impulsar el bienestar personal y el desarrollo individual en la era contemporánea. Con un enfoque integral, la plataforma ofrece una variedad de herramientas destinadas a ayudar a los usuarios a alcanzar sus metas, adoptar hábitos saludables y fortalecer su bienestar emocional. Desde establecer objetivos personalizados hasta acceder a recursos para el manejo del estrés, Selfrise brinda un acompañamiento constante para mejorar la calidad de vida de sus usuarios.
 
@@ -58,7 +58,8 @@ En la segunda pantalla del menu tenemos un chat general de la cual puedes hablar
 Aqui tenemos una pestaña de evaluacion de la cual te hace unas cuantas preguntas para evaluar tu autoestima y aconsejarte sobre eso.
 
 
-![qemu-system-x86_64_GNNRj4MAKA](https://github.com/Engels23rd/Selfrise/assets/89677093/b0c7d9f1-58ef-40a9-a50b-6d8d9eb21f59)
+![qemu-system-x86_64_GNNRj4MAKA](https://github.com/Engels23rd/Selfrise/assets/89677093/b0c7d9f1-58ef-40a9-a50b-6d8d9eb21f59)       ![qemu-system-x86_64_EKW5VBzOM0](https://github.com/Engels23rd/Selfrise/assets/89677093/ef01cb6d-c38b-4470-8407-0341142de63f)
+![qemu-system-x86_64_fayu6oKYfM](https://github.com/Engels23rd/Selfrise/assets/89677093/b381eec2-e11e-4865-8dd8-083bf2748181)
 
 
 
