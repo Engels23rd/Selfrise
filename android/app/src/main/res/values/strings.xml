@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="app_name">SelfRise</string>
+<string name="facebook_app_id">930504915328067</string>
+<string name="fb_login_protocol_scheme">fb930504915328067</string>
+<string name="facebook_client_token">f0189cd33cca65598d4d4dac7215fdb2</string>
+</resources>
+
+
+
