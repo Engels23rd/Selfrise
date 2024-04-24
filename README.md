@@ -21,3 +21,6 @@ Visual Studio Code
 
 ## Design UI/UX
 
+La app primero comienza con unos slide explicativos.
+![Slide1](https://github.com/Engels23rd/Selfrise/assets/89677093/5d75df3e-8fbd-4ab1-9274-6cc1abe73a9c)    ![Slide3](https://github.com/Engels23rd/Selfrise/assets/89677093/64deaa39-be14-4ee6-b70b-277789443252)
+
